@@ -1,5 +1,3 @@
-Summary - GitHub webhook not triggering CI pipeline
-Issue key - MFLP-16
+
 Description - Incident Number: INC0010011 - GitHub webhook fails to trigger the CI pipeline.
-Status - To Do
-Project key - MFLP
+
